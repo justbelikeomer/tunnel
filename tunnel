@@ -1,15 +1,8 @@
 #!/bin/bash
 
-#==============================================================================#
-#                                                                              #
-#                                 🚇 Tunnelsmith 🚇                              #
-#           A cool and friendly script for creating reverse SSH tunnels.       #
-#                                                                              #
-#==============================================================================#
-
 # --- Configuration ---
-REMOTE_HOST="tunnel.extremenodes.dpdns.org"
-REMOTE_USER="tunnel"
+REMOTE_HOST="tunnel.extremenodes.online"
+REMOTE_USER="root"
 SSH_PORT="22"
 
 # --- Colors and Emojis ---
